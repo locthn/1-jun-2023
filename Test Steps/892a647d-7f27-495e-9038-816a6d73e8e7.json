@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_testops",
+        "step 2: At Page_testops click on hyperlink_resources_center_blog_gpt_powered_manual --> navigate to Page_resources-center_blog_gpt-powered-manual-test-generator",
+        "step 3: Add visual checkpoint at Page_resources-center_blog_gpt-powered-manual-test-generator"
+    ]
+}
